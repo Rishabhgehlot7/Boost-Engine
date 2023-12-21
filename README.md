@@ -1,14 +1,38 @@
-# IT-Company-Website
+# Boost Engine: Shaping Tomorrow's Success
 
 ## Overview
 
-The project “IT Company Website” is a responsive website made using HTML, CSS, Bootstrap and JavaScript. As it is responsive, it works well on all devices. The website includes modules like About, Services, Portfolio, Team, Career, Contact and FAQ. Whenever anyone submits the contact form or career form, an email is sent on company’s email id so that they get notified about it and can communicate with that person soon. The website contains all the modules that meet the project requirement and is doing all the work accurately.
+**About Us**
 
-## Website Link
+Welcome to **Boost Engine**, a forward-thinking IT company founded by *Rishabh Gehlot*. At Boost Engine, we're not just building solutions; we're crafting a future where businesses thrive through digital empowerment.
 
-Go check this website!!
-https://priyansh42.github.io/IT-Company-Website/
+**Vision and Mission**
 
-##
+*Vision:* To be a catalyst for positive change in the IT landscape, driving innovation and excellence.
 
-__NOTE: PHP Mailer won't work on this deployed website. For that you need to download this whole project and run it locally on your PC.__
+*Mission:* We are committed to delivering cutting-edge solutions, accelerating the growth of businesses and reshaping the possibilities of technology.
+
+## Core Values
+
+- **Innovation:** Thriving on pushing boundaries and exploring uncharted territories.
+- **Excellence:** Delivering solutions that are robust, scalable, and designed for optimal performance.
+- **Client-Centricity:** Tailoring solutions to meet the unique goals and aspirations of our clients.
+
+## Services
+
+- **Software Development:** Crafting solutions that position businesses for future growth.
+- **Web Development:** Creating digital experiences that captivate audiences and drive engagement.
+- **Cybersecurity Solutions:** Safeguarding digital assets in an evolving digital landscape.
+- **Strategic Consulting:** Providing insights and charting roadmaps for digital transformation.
+
+## Join Us on the Journey
+
+At Boost Engine, we invite you to connect, collaborate, and grow with us. Our mission extends beyond delivering solutions; it's about accelerating your success and empowering your business for the future. Let's shape a future where businesses not only survive but thrive through the power of technology.
+
+## Contact Us
+
+Connect with Boost Engine and let's embark on this exciting journey together.
+
+- **Website:** [www.boostengine.com](https://www.boostengine.com)
+- **Email:** info@boostengine.com
+- **Phone:** [Your Contact Number]
