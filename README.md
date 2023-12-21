@@ -33,6 +33,6 @@ At Boost Engine, we invite you to connect, collaborate, and grow with us. Our mi
 
 Connect with Boost Engine and let's embark on this exciting journey together.
 
-- **Website:** [www.boostengine.com](https://www.boostengine.com)
-- **Email:** info@boostengine.com
-- **Phone:** [Your Contact Number]
+- **Website:** [https://rishabhgehlot7.github.io/Boost-Engine/](https://www.boostengine.com)
+- **Email:** boostengine001@gmail.com
+- **Phone:** 7300054285
